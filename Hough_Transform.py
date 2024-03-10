@@ -2,6 +2,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Hough Transform
+# In summary, a point in the original image space corresponds to a line in the Hough space.
+# a line in the original image space corresponds to a point in the Hough space.
+# The following example illustrates the Hough transform for lines.
+# Author: Junchi Wang
+# Date: 2024/3/9
+# Version: v1.0
 
 # Generate some data
 x = np.arange(0, 120, 1)
@@ -31,11 +37,3 @@ plt.title('Hough Space')
 plt.xlabel('Theta')
 plt.ylabel('Z')
 plt.show()
-
-
-
-
-
-
-
-
