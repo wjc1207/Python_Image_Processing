@@ -1,4 +1,10 @@
 # K-means
+# In Summary, K-means is a clustering algorithm 
+# that aims to partition n observations into k clusters in which each observation belongs to 
+# the cluster with the nearest mean.
+# Author: Junchi Wang
+# Date: 2024/3/10
+# Version: v1.0
 
 import numpy as np
 import matplotlib.pyplot as plt
