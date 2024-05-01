@@ -8,3 +8,5 @@ Algorithm List
 - K means
 - chain code
 - wavelet transform
+- Baliteral Filter
+- Laplacian of Gaussian Edge Detection
